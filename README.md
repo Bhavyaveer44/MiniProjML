@@ -1,9 +1,9 @@
 # MiniProjML
 ML Mini Projects
 
-1️⃣ Handwritten Digit Recognition
+ Handwritten Digit Recognition
 2️⃣ Spam Email Detection
-3️⃣ Movie Recommendation System
+✅ Movie Recommendation System
 4️⃣ Breast Cancer Prediction
 5️⃣ Chatbot using NLP
 6️⃣ Twitter Sentiment Analysis
